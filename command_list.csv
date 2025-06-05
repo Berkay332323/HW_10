@@ -1,0 +1,59 @@
+    1  mkdir HW_10
+    2  cd Git Prohesi
+    3  mkdir HW_10
+    4  cd Desktop/Git Prohesi
+    5  cd"Desktop/Git Prohesi"
+    6  cd Git
+    7  cd Desktop/Git
+    8  cd Masaüstü/Git
+    9  cd /Masaüstü
+   10  cd Masaüstü/Git
+   11  cd ~/Masaüstü
+   12  cd~/Masaüstü
+   13  cd ~/Masaüstü
+   14  cd ~/Desktop
+   15  mkdir git_proje
+   16  cd git_proje
+   17  git clone https://github.com/Berkay332323/HW_10.git
+   18  cd HW_10
+   19  touch text_ignore.txt
+   20  nano .gitignore
+   21  nano .gitignore
+   22  git status
+   23  git add .gitignore
+   24  git commit -m ".gitignore güncellendi: text_ignore.txt eklendi"
+   25  [200~git push origin main
+   26  git push origin main
+   27  [200~touch main_test.txt
+   28  touch main_test.txt
+   29  touch main_test.txt
+   30  git add .
+   31  git add .
+   32  git commit -m "main_test.txt dosyası eklendi"
+   33  git config --global user.name "Berkay Saygı"
+   34  [200~$ git config - -
+   35  [200~$ git config - -global user.email "berkay4527@gmail.com"
+   36  git config - -global user.email "berkay4527@gmail.com"
+   37  git config - -global user.email "berkay4527@gmail.com"
+   38   git config --global user.email "berkay4527@gmail.com"
+   39  git commit -m "main_test.txt dosyası eklendi"
+   40  git checkout -b develop
+   41  touch develop_test.txt
+   42  git add .
+   43  git commit -m "develop_test.txt dosyası eklendi"
+   44  echo "deneme satırı" >> develop_test.txt
+   45  git status
+   46  git status
+   47  git add develop_test.txt
+   48  git commit -m "develop_test.txt dosyasındaki değişiklik commitlendi"
+   49  [200~git status
+   50  git status
+   51  [200~git checkout main
+   52  git checkout main
+   53  git merge develop
+   54  git push origin main
+   55  git checkout main
+   56  git merge develop
+   57  git log --oneline
+   58  git push origin main
+   59  history > command_list.csv
